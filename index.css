@@ -134,6 +134,7 @@
         }
 
         .profile-image img {
+            height: 400px;
             width: 100%;
             max-width: 350px;
             border-radius: 50%;
